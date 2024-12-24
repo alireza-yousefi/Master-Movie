@@ -2,6 +2,8 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+https://alireza-yousefi.github.io/Master-Movie/
+
 ## Setup
 
 Make sure to install dependencies:
